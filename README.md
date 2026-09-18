@@ -33,3 +33,9 @@ Clément Sauger
 Rose Ndodoki Bonny
 
 Romain Blaquart
+
+## Client
+Loic Desnos (Norsys)
+
+## Encadrant
+Ameur Soukhal (Polytech Tours)
