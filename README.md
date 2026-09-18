@@ -25,7 +25,11 @@ expérience utilisateur, fonctionnalités, sécurité et impact environnemental 
 
 ## Auteurs
 Juliette Rousselet
+
 Mathilde Rousset
+
 Clément Sauger
+
 Rose Ndodoki Bonny
+
 Romain Blaquart
